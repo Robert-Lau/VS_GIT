@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "udpClient", "udpClient\udpClient.csproj", "{48B6A861-FD3B-4A18-9B79-30DDC0A37092}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "udpServer", "udpServer\udpServer.csproj", "{51C9CBDB-82D5-4EF2-A1CB-44FC2AF6D512}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48B6A861-FD3B-4A18-9B79-30DDC0A37092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48B6A861-FD3B-4A18-9B79-30DDC0A37092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48B6A861-FD3B-4A18-9B79-30DDC0A37092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48B6A861-FD3B-4A18-9B79-30DDC0A37092}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51C9CBDB-82D5-4EF2-A1CB-44FC2AF6D512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51C9CBDB-82D5-4EF2-A1CB-44FC2AF6D512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51C9CBDB-82D5-4EF2-A1CB-44FC2AF6D512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51C9CBDB-82D5-4EF2-A1CB-44FC2AF6D512}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4D3DEB5-7B4A-466D-8066-0E01242F5E47}
+	EndGlobalSection
+EndGlobal
